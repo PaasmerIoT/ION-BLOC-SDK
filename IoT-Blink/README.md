@@ -4,7 +4,7 @@ This Readme file will guide you to deploy a contract in IoT blockchain and contr
 
 **Prerequisite:**
 
-- Raspberry Pi 3 with [raspbian jessie] (https://www.raspberrypi.org/downloads/raspbian/) installed in 16 GB micro SD card.-
+- Raspberry Pi 3 with [raspbian jessie](https://www.raspberrypi.org/downloads/raspbian/) installed in 16 GB micro SD card.-
 - Go-Ethereum, Golang, node and npm preinstalled using the install.sh file.
 - Connected to our Private Blockchain.
 - You should have a personal account with some ethers (minimum 0.0012 ethers) for submitting the contract.

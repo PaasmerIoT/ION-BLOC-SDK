@@ -4,7 +4,7 @@ This SDK will help you to add to our existing Private Blockchain network from yo
 
 **Prerequisite:**
 
-1. Raspberry Pi 3 with Raspbian Jessie https://www.raspberrypi.org/downloads/raspbian/ installed in 16 GB micro SD card.
+1. Raspberry Pi 3 with [Raspbian Jessie](https://www.raspberrypi.org/downloads/raspbian/) installed in 16 GB micro SD card.
 2. Stable internet connection with minimum 500 kbps speed.
 
 **Installation:**
