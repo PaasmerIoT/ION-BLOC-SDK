@@ -35,7 +35,7 @@ In geth console
 * Creating an account:
 
 ```
-admin.newAccount("password")              
+personal.newAccount("password")              
 ```
 
 Password -- Give your custom password 
