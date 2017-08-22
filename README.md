@@ -56,5 +56,7 @@ admin.peers
 
 - Peering will initially take the time to happen. Once it was done then block synchronization will happen, which you can able to view it in your geth console.
 
+# CONTRACT.JS FILE UNDER CONTRACT FOLDER WILL HELP YOU TO COMPILE AND DEPLOY CONTRACT IN BLOCKCHAIN WITH SINGLE COMMAND.
+
 ## Sample Code for controlling the IoT using Ion-Block was given in IoT-Blink folder.
     This code will allow users to deploy the contract and control the blinkibng of LED based on the events.
