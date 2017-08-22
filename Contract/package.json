@@ -1,0 +1,17 @@
+{
+  "name": "contract",
+  "version": "1.0.0",
+  "description": "This will help you to compile and deploy contract in Blockchain ",
+  "main": "contract.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "contract"
+  ],
+  "author": "Karthikeyan",
+  "license": "MIT",
+  "dependencies": {
+    "solc": "^0.4.13"
+  }
+}
