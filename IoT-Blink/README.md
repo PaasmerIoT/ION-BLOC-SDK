@@ -28,7 +28,7 @@ Enter the project details in the terminal and save the package.json file
 
 In that project folder, install web3 and onoff modules using the commands.
 
-```sh
+```Gentoo Ebuild
 $ npm install web3 --save
 $ npm install onoff --save
 ```
@@ -48,9 +48,8 @@ $ npm install onoff --save
 
 - Now we will create a new file named blink.js inside the project folder.
 
-```sh
-$ nano blink.js
-    
+```bash
+$ nano blink.js  
 ``` 
 - copy the below code to the blink.js file and save it.
 
@@ -75,8 +74,7 @@ The above code will make to blink the LED for 5s
 - Run the code using the command.
 
 ```sh
-$ sudo node blink.js
-    
+$ sudo node blink.js    
 ```
 
 Let's use the blockchain now. 
@@ -102,7 +100,6 @@ personal.unlockAccount(eth.accounts[0])
 
 ```sh
 $ sudo node blink.js
-
 ```
 - In online compiler enter the value for Blink and submit the transaction. Once the transaction was deployed you can find the success message in the terminal followed by LED blinking for a particular time.
     
